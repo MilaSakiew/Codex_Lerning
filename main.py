@@ -5,6 +5,11 @@ def main():
         "Français: Bonjour le monde",
         "Español: Hola Mundo",
         "Italiano: Ciao Mondo",
+        "Português: Ola Mundo",
+        "Nederlands: Hallo Wereld",
+        "Polski: Witaj swiecie",
+        "Svenska: Hej Varlden",
+        "Turkce: Merhaba Dunya",
     ]
 
     for greeting in greetings:
